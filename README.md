@@ -12,5 +12,5 @@ is used to crawl the stonk pricees of specific year from [台灣證券交易所]
     * the years you want, the month, whick crawl the market trend price
   * pandas_convert(a_list) <- function
     * used to converst the list to pandas dataframe
- ## Dara processing & model establish
+ ## Data processing & model establish
  ### [.ipynb](https://github.com/oscar9335/PJ_TWStonk2603_predictor/blob/de83ef3dfa7b1adeed33617f183ffcf5e7aeb4f5/my2603predictor3.ipynb)
